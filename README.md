@@ -1,2 +1,2 @@
 # Quiz-Game
-This is a basic quiz game in Java
+This is a basic Quiz Game in Java 
